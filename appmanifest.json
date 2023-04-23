@@ -1,0 +1,11 @@
+{
+	"name": "English Lesson",
+	"short_name": "English Lesson",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"theme_color": "#ffffff"
+}
